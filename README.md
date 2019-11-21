@@ -1,0 +1,2 @@
+# hello-smallcode
+Just begin
